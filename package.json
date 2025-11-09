@@ -23,7 +23,6 @@
   "type": "module",
   "license": "ISC",
   "scripts": {
-    "build": "netlify deploy --prod",
     "dev": "nodemon server.js",
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
